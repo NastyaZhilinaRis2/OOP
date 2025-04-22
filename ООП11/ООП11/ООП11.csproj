@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MenuLib">
+      <HintPath>..\ООП\MenuLib\bin\Release\netcoreapp3.1\MenuLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ООП10Library">
+      <HintPath>..\ООП\ООП10\ООП10Library\bin\Release\netcoreapp3.1\ООП10Library.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

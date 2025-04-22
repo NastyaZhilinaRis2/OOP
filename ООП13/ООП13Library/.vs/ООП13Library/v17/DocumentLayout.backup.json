@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F\\\u041E\u041E\u041F13\\\u041E\u041E\u041F13Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84FE7C4F-DD07-41F5-8037-5C70BE563303}|\u041E\u041E\u041F13Library.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\\u043E\u043E\u043F\\\u043E\u043E\u043F13\\\u043E\u043E\u043F13library\\mynewcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FE7C4F-DD07-41F5-8037-5C70BE563303}|\u041E\u041E\u041F13Library.csproj|solutionrelative:mynewcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159470A-FE93-4DDD-8ACE-9292B9FC8354}|..\\TestOOP13\\TestOOP13.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\\u043E\u043E\u043F\\\u043E\u043E\u043F13\\testoop13\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyNewCollection.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F\\\u041E\u041E\u041F13\\\u041E\u041E\u041F13Library\\MyNewCollection.cs",
+              "RelativeDocumentMoniker": "MyNewCollection.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F\\\u041E\u041E\u041F13\\\u041E\u041E\u041F13Library\\MyNewCollection.cs",
+              "RelativeToolTip": "MyNewCollection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwEoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:28:51.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F\\\u041E\u041E\u041F13\\TestOOP13\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestOOP13\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F\\\u041E\u041E\u041F13\\TestOOP13\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestOOP13\\UnitTest1.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAYwE0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:57:41.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

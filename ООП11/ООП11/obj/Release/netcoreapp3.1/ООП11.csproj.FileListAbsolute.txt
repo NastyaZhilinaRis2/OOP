@@ -1,0 +1,5 @@
+C:\Users\Настя\source\repos\ООП\ООП11\ООП11\obj\Release\netcoreapp3.1\ООП11.csproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\ООП\ООП11\ООП11\obj\Release\netcoreapp3.1\ООП11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\ООП\ООП11\ООП11\obj\Release\netcoreapp3.1\ООП11.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\ООП\ООП11\ООП11\obj\Release\netcoreapp3.1\ООП11.AssemblyInfo.cs
+C:\Users\Настя\source\repos\ООП\ООП11\ООП11\obj\Release\netcoreapp3.1\ООП11.csproj.CoreCompileInputs.cache

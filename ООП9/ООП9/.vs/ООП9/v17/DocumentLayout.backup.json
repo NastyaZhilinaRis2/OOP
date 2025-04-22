@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\part1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:part1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|e:\\\u043E\u043E\u043F\\\u043E\u043E\u043F9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\timearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:timearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\part3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:part3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBED4E-0F3D-46C3-9973-537E622B8D12}|\u041E\u041E\u041F9.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Help.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Help.cs",
+              "RelativeDocumentMoniker": "Help.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Help.cs",
+              "RelativeToolTip": "Help.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:10.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:13.314Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Part1.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Part1.cs",
+              "RelativeDocumentMoniker": "Part1.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Part1.cs",
+              "RelativeToolTip": "Part1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA8wBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:15.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Part2.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Part2.cs",
+              "RelativeDocumentMoniker": "Part2.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Part2.cs",
+              "RelativeToolTip": "Part2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:17.245Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Part3.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Part3.cs",
+              "RelativeDocumentMoniker": "Part3.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Part3.cs",
+              "RelativeToolTip": "Part3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:20.883Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Time.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Time.cs",
+              "RelativeDocumentMoniker": "Time.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Time.cs*",
+              "RelativeToolTip": "Time.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAlwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:44.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeArray.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\TimeArray.cs",
+              "RelativeDocumentMoniker": "TimeArray.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\TimeArray.cs",
+              "RelativeToolTip": "TimeArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:46.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\\u041E\u041E\u041F9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:30:53.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

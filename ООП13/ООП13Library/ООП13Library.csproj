@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ООП12Library">
+      <HintPath>..\ООП12Library\bin\Release\netcoreapp3.1\ООП12Library.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

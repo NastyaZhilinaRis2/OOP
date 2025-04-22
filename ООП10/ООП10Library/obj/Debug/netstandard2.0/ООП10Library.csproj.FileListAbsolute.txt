@@ -1,0 +1,5 @@
+C:\Users\Настя\source\repos\ООП10Library\obj\Debug\netstandard2.0\ООП10Library.csproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\ООП10Library\obj\Debug\netstandard2.0\ООП10Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\ООП10Library\obj\Debug\netstandard2.0\ООП10Library.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\ООП10Library\obj\Debug\netstandard2.0\ООП10Library.AssemblyInfo.cs
+C:\Users\Настя\source\repos\ООП10Library\obj\Debug\netstandard2.0\ООП10Library.csproj.CoreCompileInputs.cache
