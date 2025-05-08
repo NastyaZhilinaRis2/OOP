@@ -1,0 +1,16 @@
+C:\Users\Настя\source\repos\ООП15\ООП15\bin\Debug\net8.0-windows\ООП15.exe
+C:\Users\Настя\source\repos\ООП15\ООП15\bin\Debug\net8.0-windows\ООП15.deps.json
+C:\Users\Настя\source\repos\ООП15\ООП15\bin\Debug\net8.0-windows\ООП15.runtimeconfig.json
+C:\Users\Настя\source\repos\ООП15\ООП15\bin\Debug\net8.0-windows\ООП15.dll
+C:\Users\Настя\source\repos\ООП15\ООП15\bin\Debug\net8.0-windows\ООП15.pdb
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.csproj.GenerateResource.cache
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.AssemblyInfo.cs
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.dll
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\refint\ООП15.dll
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.pdb
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.genruntimeconfig.cache
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ref\ООП15.dll
+C:\Users\Настя\source\repos\ООП15\ООП15\obj\Debug\net8.0-windows\ООП15.MainForm.resources
