@@ -13,6 +13,7 @@ namespace ООП16
         public event CollectionHandler<TKey, TValue> CollectionReferenceChanged;
 
         public string NameCollection { get; set; }
+        public MyCollection() : base(){}
         public MyCollection(string nameCollection) : base()
         {
             NameCollection = nameCollection;

@@ -11,7 +11,9 @@ namespace ООП16
             var nodes = data.Select(kv => new NodeHash<string, Goods> (kv.Key, kv.Value )).ToList();
 
             var serializer = new XmlSerializer(typeof(List<NodeHash<string, Goods>>));
+
             await using var file = File.Create(Path);
+
             serializer.Serialize(file, nodes);
         }
 

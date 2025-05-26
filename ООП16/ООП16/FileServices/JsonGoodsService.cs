@@ -11,8 +11,7 @@ namespace ООП16
         {
             string json = JsonSerializer.Serialize(data, new JsonSerializerOptions
             {
-                WriteIndented = true,
-                IncludeFields = true
+                WriteIndented = true
             });
 
             await File.WriteAllTextAsync(Path, json);

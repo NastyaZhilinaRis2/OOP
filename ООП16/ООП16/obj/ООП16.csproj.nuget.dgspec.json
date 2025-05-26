@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Настя\\source\\repos\\ООП16\\ООП16\\ООП16.csproj": {}
+    "C:\\Users\\Настя\\source\\repos\\ООП\\ООП16\\ООП16\\ООП16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Настя\\source\\repos\\ООП16\\ООП16\\ООП16.csproj": {
+    "C:\\Users\\Настя\\source\\repos\\ООП\\ООП16\\ООП16\\ООП16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Настя\\source\\repos\\ООП16\\ООП16\\ООП16.csproj",
+        "projectUniqueName": "C:\\Users\\Настя\\source\\repos\\ООП\\ООП16\\ООП16\\ООП16.csproj",
         "projectName": "ООП16",
-        "projectPath": "C:\\Users\\Настя\\source\\repos\\ООП16\\ООП16\\ООП16.csproj",
+        "projectPath": "C:\\Users\\Настя\\source\\repos\\ООП\\ООП16\\ООП16\\ООП16.csproj",
         "packagesPath": "C:\\Users\\Настя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Настя\\source\\repos\\ООП16\\ООП16\\obj\\",
+        "outputPath": "C:\\Users\\Настя\\source\\repos\\ООП\\ООП16\\ООП16\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
