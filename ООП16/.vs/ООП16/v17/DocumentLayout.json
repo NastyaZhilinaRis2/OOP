@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042AF345-DF48-4C4E-B5DC-58D184FF13D3}|\u041E\u041E\u041F16\\\u041E\u041E\u041F16.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\\u043E\u043E\u043F16\\\u043E\u043E\u043F16\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042AF345-DF48-4C4E-B5DC-58D184FF13D3}|\u041E\u041E\u041F16\\\u041E\u041E\u041F16.csproj|solutionrelative:\u043E\u043E\u043F16\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042AF345-DF48-4C4E-B5DC-58D184FF13D3}|\u041E\u041E\u041F16\\\u041E\u041E\u041F16.csproj|C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\\u043E\u043E\u043F16\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{042AF345-DF48-4C4E-B5DC-58D184FF13D3}|\u041E\u041E\u041F16\\\u041E\u041E\u041F16.csproj|solutionrelative:\u043E\u043E\u043F16\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042AF345-DF48-4C4E-B5DC-58D184FF13D3}|\u041E\u041E\u041F16\\\u041E\u041E\u041F16.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\\u043E\u043E\u043F16\\\u043E\u043E\u043F16\\mycollectionlibrary\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042AF345-DF48-4C4E-B5DC-58D184FF13D3}|\u041E\u041E\u041F16\\\u041E\u041E\u041F16.csproj|solutionrelative:\u043E\u043E\u043F16\\mycollectionlibrary\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\\u041E\u041E\u041F16\\MyCollectionLibrary\\Journal.cs",
+              "RelativeDocumentMoniker": "\u041E\u041E\u041F16\\MyCollectionLibrary\\Journal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\\u041E\u041E\u041F16\\MyCollectionLibrary\\Journal.cs",
+              "RelativeToolTip": "\u041E\u041E\u041F16\\MyCollectionLibrary\\Journal.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:43:24.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\\u041E\u041E\u041F16\\MainForm.cs",
+              "RelativeDocumentMoniker": "\u041E\u041E\u041F16\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\\u041E\u041E\u041F16\\MainForm.cs",
+              "RelativeToolTip": "\u041E\u041E\u041F16\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:27:09.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\\u041E\u041E\u041F16\\MainForm.cs",
+              "RelativeDocumentMoniker": "\u041E\u041E\u041F16\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\\u041E\u041E\u041F16\\\u041E\u041E\u041F16\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u041E\u041E\u041F16\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:27:01.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

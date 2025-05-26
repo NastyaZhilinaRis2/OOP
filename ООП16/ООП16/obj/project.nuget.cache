@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckiQx9pul5I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Настя\\source\\repos\\ООП16\\ООП16\\ООП16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Настя\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}

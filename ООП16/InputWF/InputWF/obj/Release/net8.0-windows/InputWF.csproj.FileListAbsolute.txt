@@ -1,0 +1,11 @@
+C:\Users\Настя\source\repos\InputWF\InputWF\bin\Release\net8.0-windows\InputWF.deps.json
+C:\Users\Настя\source\repos\InputWF\InputWF\bin\Release\net8.0-windows\InputWF.dll
+C:\Users\Настя\source\repos\InputWF\InputWF\bin\Release\net8.0-windows\InputWF.pdb
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\InputWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\InputWF.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\InputWF.AssemblyInfo.cs
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\InputWF.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\InputWF.dll
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\refint\InputWF.dll
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\InputWF.pdb
+C:\Users\Настя\source\repos\InputWF\InputWF\obj\Release\net8.0-windows\ref\InputWF.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\mycollectionlibrary\\mycollectionlibrary\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|solutionrelative:mycollectionlibrary\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\mycollectionlibrary\\mycollectionlibrary\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|solutionrelative:mycollectionlibrary\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\mycollectionlibrary\\mycollectionlibrary\\hashtablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|solutionrelative:mycollectionlibrary\\hashtablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\mycollectionlibrary\\mycollectionlibrary\\nodehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8638FE-77F0-4F19-82FD-8C57453ECDFD}|MyCollectionLibrary\\MyCollectionLibrary.csproj|solutionrelative:mycollectionlibrary\\nodehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\Journal.cs",
+              "RelativeDocumentMoniker": "MyCollectionLibrary\\Journal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\Journal.cs",
+              "RelativeToolTip": "MyCollectionLibrary\\Journal.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA4wEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:09:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCollection.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\MyCollection.cs",
+              "RelativeDocumentMoniker": "MyCollectionLibrary\\MyCollection.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\MyCollection.cs",
+              "RelativeToolTip": "MyCollectionLibrary\\MyCollection.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:08:50.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashTableCollection.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\HashTableCollection.cs",
+              "RelativeDocumentMoniker": "MyCollectionLibrary\\HashTableCollection.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\HashTableCollection.cs",
+              "RelativeToolTip": "MyCollectionLibrary\\HashTableCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:07:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodeHash.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\NodeHash.cs",
+              "RelativeDocumentMoniker": "MyCollectionLibrary\\NodeHash.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary\\NodeHash.cs",
+              "RelativeToolTip": "MyCollectionLibrary\\NodeHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:06:24.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
